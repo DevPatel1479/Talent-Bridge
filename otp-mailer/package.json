@@ -1,0 +1,17 @@
+{
+  "name": "otp-mailer",
+  "version": "1.0.0",
+  "description": "api for email otp sending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
